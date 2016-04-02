@@ -13,6 +13,7 @@ device.desktop() // false
 TODO
 ====
 
+* Add Travis
 * Add a website
 * Split useragent in multiple yaml files
 * Found a lot of userAgent
