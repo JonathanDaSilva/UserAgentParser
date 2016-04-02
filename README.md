@@ -15,6 +15,8 @@ TODO
     * Split useragent in multiple yaml files
     * Found a lot of userAgent
     * Take the userAgent of the current browser and parse it
+    * Check for the orientation of the device
+    * Add everything in the html for using it dynamically in css
     * Better building
     * Add version, especialy for IE
     * What people would want
