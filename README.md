@@ -12,6 +12,7 @@ device.desktop() // false
 
 TODO
 ====
+    * Add a website
     * Split useragent in multiple yaml files
     * Found a lot of userAgent
     * Take the userAgent of the current browser and parse it
