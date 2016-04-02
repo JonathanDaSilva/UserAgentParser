@@ -27,4 +27,4 @@ TODO
 Contribution
 ============
 
-Any help, cristisme is realy appreciate.
+Any help, criticism is realy appreciate.
