@@ -1,0 +1,22 @@
+{
+  "name": "detectiondevice",
+  "version": "1.0.0",
+  "description": "Parse the useragent and tell you which device the client is currently using",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Jonathan Da Silva <dasilvabastos.jonathan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-todo": "^4.1.0",
+    "gulp-typescript": "^2.12.1",
+    "mocha": "^2.4.5",
+    "require-dir": "^0.3.0",
+    "yamljs": "^0.2.6"
+  }
+}

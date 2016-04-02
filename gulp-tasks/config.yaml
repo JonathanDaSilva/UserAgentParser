@@ -1,0 +1,3 @@
+src: './src/*.ts'
+test: './dist/*.spec.js'
+out: './dist/'
