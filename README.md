@@ -1,5 +1,3 @@
-This is still in developpment
----
 Use
 ===
 
