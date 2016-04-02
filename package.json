@@ -1,5 +1,5 @@
 {
-  "name": "detectiondevice",
+  "name": "useragentparser",
   "version": "1.0.0",
   "description": "Parse the useragent and tell you which device the client is currently using",
   "main": "dist/index.js",
